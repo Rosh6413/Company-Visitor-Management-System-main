@@ -1,0 +1,13 @@
+{
+    "name": "rosh6413/company-visitor-management-system-main",
+    "description": "Visitor Management System for company visitor tracking",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "roshan"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
